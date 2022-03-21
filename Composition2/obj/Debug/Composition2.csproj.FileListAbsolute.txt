@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\Composition2\Composition2\bin\Debug\Composition2.exe.config
+C:\Users\sande\source\repos\Composition2\Composition2\bin\Debug\Composition2.exe
+C:\Users\sande\source\repos\Composition2\Composition2\bin\Debug\Composition2.pdb
+C:\Users\sande\source\repos\Composition2\Composition2\obj\Debug\Composition2.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\Composition2\Composition2\obj\Debug\Composition2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\Composition2\Composition2\obj\Debug\Composition2.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Composition2\Composition2\obj\Debug\Composition2.exe
+C:\Users\sande\source\repos\Composition2\Composition2\obj\Debug\Composition2.pdb
